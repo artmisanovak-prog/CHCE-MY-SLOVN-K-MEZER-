@@ -42,4 +42,4 @@ Obsah tohoto repozitáře (karty, pohádky, diagnostika) je licencován pod **Cr
 ## 💌 Kontakt
 Máte zájem o plnou verzi všech karet, konzultaci nebo facilitaci workshopu pro váš tým?
 
-**Napište nám:** [tvuj@email.cz](mailto:tvuj@email.cz)
+**Napište nám:** [chcesmys@gmail.com](chcesmys@gmail.com)
