@@ -22,7 +22,7 @@ Ukázka karty o komunikační dysfunkci. Řeší nutkavé dokončování myšlen
 [📁 Přejít ke kartě Kocour](./karty/kocour/)
 
 ## 🚀 Jak začít
-1. Vyberte si kartu, která rezonuje s vaším týmem.
+1. Vyberte si kartu, kterou poruchu, chcete použít s týmem.
 2. Přečtěte si pohádku – nechte metaforu působit.
 3. Projděte diagnostické otázky.
 4. Použijte připravený workshop pro konkrétní změnu.
